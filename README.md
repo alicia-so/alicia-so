@@ -1,7 +1,7 @@
 ## ✨ Alícia Oliveira ✨
 
 
-- 🔭 Cursando Técnico em Desenvolvimento de Sistemas 
+- 🔭 Técnica em Desenvolvimento de Sistemas 
 
 - 🌱 Graduanda Interdisciplinar em Ciência e Tecnologia 
 
