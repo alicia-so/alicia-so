@@ -1,9 +1,11 @@
 ## ✨ Alícia Oliveira ✨
 
 
-- 🔭 Técnica em Desenvolvimento de Sistemas 
+- 🔭 Técnica em Desenvolvimento de Sistemas - SENAI 
 
-- 🌱 Graduanda Interdisciplinar em Ciência e Tecnologia 
+- 🌱 Graduanda Interdisciplinar em Ciência e Tecnologia - UFBA 
+
+- 📚 Trainee TITAN - Empresa Junior de Engenharia da Computação da UFBA 
 
 <div align="center">
   <a href="https://github.com/Alicia-so">
