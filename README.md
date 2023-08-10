@@ -5,7 +5,7 @@
 
 - 🌱 Graduanda Interdisciplinar em Ciência e Tecnologia - UFBA 
 
-- 📚 Trainee TITAN - Empresa Junior de Engenharia da Computação da UFBA 
+- 📚 Desenvolvedora e Diretora de Gestão de Pessoas - TITAN - Empresa Junior de Engenharia da Computação da UFBA 
 
 <div align="center">
   <a href="https://github.com/Alicia-so">
