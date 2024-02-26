@@ -1,24 +1,60 @@
 ## ✨ Alícia Oliveira ✨
 
 
-- 🔭 Técnica em Desenvolvimento de Sistemas - SENAI 
+- 🚀 Software Engineer Intern at @jusbrasil 
 
-- 🌱 Graduanda Interdisciplinar em Ciência e Tecnologia - UFBA 
+- 🔭 Technical in systems development at SENAI  
 
-- 📚 Desenvolvedora e Diretora de Gestão de Pessoas - TITAN - Empresa Junior de Engenharia da Computação da UFBA 
+- 🌱 Studying Science and Technology at UFBA 
 
-<div align="center">
-  <a href="https://github.com/Alicia-so">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alicia-so&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicia-so&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 📚 Developer - TITAN - Empresa Junior de Engenharia da Computação da UFBA 
 
- 
-<div> 
-  <a href="https://www.instagram.com/alicias_o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:aliciaolvra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aliciasso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+## Conhecimento 
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-FFD341?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/-++-3849AC?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-B07219?style=flat-square&logo=java)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-logo?style=flat-square&logo=appveyor&logoColor=%23FFFFFF&color=%23E62431)
+
+
+
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+**Others Technologies**
+
+![CAMUNDA](https://img.shields.io/badge/Camunda-logo?style=flat-square&logo=camunda&logoColor=white&color=%23FC5D0D)
+![Swagger](https://img.shields.io/badge/-Swagger-434959?style=flat-square&logo=Swagger)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/-MySQL-DBECF2?style=flat-square&logo=mysql)
+
+**Tests**
+
+![Pytest](https://img.shields.io/badge/Pytest-logo?style=flat-square&logo=pytest&logoColor=white&color=%230A9EDC)
+
+**Infra and Observability**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud%20Plataform-DBDBE0?style=flat-square&logo=google-cloud)
+
+
+**Versioning and Communication**
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack)
+![Notion](https://img.shields.io/badge/notion-logo?style=flat-square&logo=notion&logoColor=white&color=%23000000)
